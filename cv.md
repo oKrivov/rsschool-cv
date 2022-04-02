@@ -31,3 +31,12 @@ function createFunctions(n) {
   return callbacks;
 }
 ```
+## Experience
+
+## Education
+* Js, CSS, HTML, Git video courses on YouTube
+* Js [learn.javascript.ru](https://learn.javascript.ru/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
+
+## Language
+[English level - B1](https://www.efset.org/cert/VR8CcP)
